@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image
+{
+    height:40em;   
+}
+.heading
+{
+    margin-left: 45%;
+}
+.image1
+{
+    background-image: url('./images/men.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+   height:250px;
+   width:100%;
+}
+.image2
+{
+        background-image: url('./images/women.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        height:250px;
+        width:100%;
+}
+.image3
+{
+    background-image: url('./images/accesories.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        height:250px;
+        width:100%;
+}
+.img-fluid
+{
+    height: 30em;
+}
+.main
+{
+    object-fit: contain;
+}
